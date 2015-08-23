@@ -37,7 +37,7 @@ $grey-color-light: #ddd;  /* navigation bar border */
 $text-color:     #666;
 
 /* Set theme color *************************/
-$theme-color:   $red;
+$theme-color:   $blue;
 
 
 /************************************************************/
@@ -115,6 +115,7 @@ li {
  */
 h1, h2, h3, h4, h5, h6 {
     font-weight: 100;
+    margin: 15px 0;
 }
 
 
